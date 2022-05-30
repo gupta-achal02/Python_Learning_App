@@ -1,6 +1,6 @@
 # Python Learning App
 
-It is a Python GUI software built with Tkinter that teaches the fundamentals of Python programming. 
+It is a Python GUI software built with Tkinter that teaches the fundamentals of Python programming.
 
 ### Prerequisites
 
@@ -65,3 +65,6 @@ This is the file that needs to be executed when the user needs to start the exec
 #### Quiz.py
 
 This contains the source code for implementing the quiz and for storing the result as a MySQL Database.
+
+
+**P.S. I built this project in my 12th grade; I didn't have a Github account at the time, and I only recently discovered it in my old computer and decided to post it here.**
