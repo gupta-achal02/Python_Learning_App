@@ -39,7 +39,9 @@ Selecting the correct answer's radio button will grant 1 point out of 4.
 ![Q1](https://github.com/hailASG/Python_Learning_App/blob/main/Images/Q1.png)
 
 At any point, previous questions can be viewed again and their answers can be changed. 
-Once the user clicks "Next" on the fourth question. The Final results will be displayed
+Once the user clicks "Next" on the fourth question. The Final results will be displayed.
+
+Finally, clicking the "Compute and Quit" button will store the result in the MySQL Database and close the window.
 
 ![Result](https://github.com/hailASG/Python_Learning_App/blob/main/Images/Result.png)
 
@@ -60,6 +62,7 @@ This contains the textual data of the instructions that will be used when 'Tutor
 #### Proj.py
 
 This contains the source code that implements the main program, the Tutorial window and is also responsible for displaying the results after fetching them from the MySQL Database.
+
 This is the file that needs to be executed when the user needs to start the execution of the program.
 
 #### Quiz.py
